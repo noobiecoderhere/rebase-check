@@ -1,1 +1,2 @@
 third line
+Second line in third.txt
